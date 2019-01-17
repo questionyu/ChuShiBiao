@@ -1,6 +1,6 @@
-package com.questionyu.chushibiao;
+package me.realneo.chushibiao.java;
 
-public class Main {
+public class ChuShiBiao {
 
 	public static void main(String[] args) {
 		君 先帝 = new 君();
